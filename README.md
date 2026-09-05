@@ -31,3 +31,7 @@ A relational database system for managing a cinema, including:
 * Constraints
 * Views
 * ALTER TABLE
+  
+## Technologies
+
+- Oracle SQL
